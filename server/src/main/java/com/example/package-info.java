@@ -1,4 +1,4 @@
 /**
- * This is a greeting module
+ * This is a greeting module.
  */
 package com.example;
